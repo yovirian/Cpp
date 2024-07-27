@@ -1,0 +1,3 @@
+E:/C++/Basics7/cmake-build-debug/CMakeFiles/Basics7.dir
+E:/C++/Basics7/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/C++/Basics7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
